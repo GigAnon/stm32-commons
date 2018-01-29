@@ -1,0 +1,6 @@
+STM32Test/VisualGDB
+VisualGDB/
+Documentation/*
+*.vcxproj.filters
+*.vgdbsettings*
+.vs/
